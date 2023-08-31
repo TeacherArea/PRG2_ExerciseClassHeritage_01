@@ -1,4 +1,4 @@
-namespace PRG2_ÖvningClassArv_01
+namespace PRG2_ExerciseClassHeritage_01_solution
 {
     internal static class Program
     {
